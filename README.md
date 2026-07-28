@@ -1,0 +1,34 @@
+# ffoster007 — Projects Showcase
+
+A curated list of completed personal repositories/projects — both original work and forks I've built on top of.
+---
+
+## Original Projects
+
+| Repository | Description | Main Language | Link |
+|---|---|---|---|
+| **Aeitor** | A platform for tracking contract renewals from vendors | TypeScript | [View repo](https://github.com/ffoster007/Aeitor) |
+| **Socigram** | Social diagram tool for mapping relationships between children in a classroom | TypeScript | [View repo](https://github.com/ffoster007/Socigram) |
+| **Instagram-unfollow-detector** | Browser console script to detect Instagram users you follow who don't follow you back | JavaScript | [View repo](https://github.com/ffoster007/Instagram-unfollow-detector) |
+| **Checklist** | Script to check for the presence of common tools on a Linux device | Shell | [View repo](https://github.com/ffoster007/Checklist) |
+
+---
+
+## Forked Projects
+
+| Repository | Forked From | What Was Changed/Added | Link |
+|---|---|---|---|
+| _(pending)_ | | | |
+
+---
+
+## Common Tech Stack
+
+TypeScript · Rust · Go · Shell · Next.js · Tauri
+
+---
+
+## Notes
+
+- This README was built from the publicly pinned repositories on [ffoster007](https://github.com/ffoster007)'s GitHub profile.
+- Projects still in active development 
