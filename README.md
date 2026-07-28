@@ -9,9 +9,10 @@ A curated list of completed personal repositories/projects — both original wor
 |---|---|---|---|
 | **Aeitor** | A platform for tracking contract renewals from vendors | TypeScript | [View repo](https://github.com/ffoster007/Aeitor) |
 | **Socigram** | Social diagram tool for mapping relationships between children in a classroom | TypeScript | [View repo](https://github.com/ffoster007/Socigram) |
+| **Celitor** | Bookmark tool, repository analysis and management. | TypeScript | [View repo](https://github.com/ffoster007/Celitor) |
+| **Libary_System** | A simple library management system built with C/C++ for console applications. | C++ | [View repo](https://github.com/ffoster007/Libary_System) |
 | **Instagram-unfollow-detector** | Browser console script to detect Instagram users you follow who don't follow you back | JavaScript | [View repo](https://github.com/ffoster007/Instagram-unfollow-detector) |
 | **Checklist** | Script to check for the presence of common tools on a Linux device | Shell | [View repo](https://github.com/ffoster007/Checklist) |
-
 ---
 
 ## Forked Projects
